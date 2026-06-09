@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+     font-family: Arial, Helvetica, sans-serif; /*si no esta disponible uno ocupa otro */
+     color:black;
+     background-color: #f4eee8;
+
+}
+header{
+    text-align: center;
+    color: white;
+    padding: 35px;
+    background-color: #5c3825;
+}
+main{
+    width: 90%;
+    background-color: #81582f;
+    max-width: 1000px;
+
+}
+.caja{
+    background-color: #ffff;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: #151414 5px solid;
+}
+.presentacion{
+  padding: 30px;
+
+}
+footer{
+    background-color: #151414;
+    color: #ffff;
+    padding: 15px;
+}
+.flexbox-main{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    
+}
+.flexbox-main2{
+  flex-direction: column;
+ display:inline-block;
+    gap: 20px;
+    padding: 20px;
+    background-color: #81582f;
+
+}
+.contenedor{
+    padding: 15px;
+    margin: 10px;
+}
+.menu{
+    display:flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+.menu a{
+background-color: #6f4631;
+color: white;
+padding: 8px;
+border-radius: 7px; 
+text-decoration: none;
+}
+.menu a:hover{
+    background-color: #5c3825;
+    color: #6da156;
+}
+section{
+    margin: 50px;
+}
+.boton{
+    display: inline-block;
+    background-color: #8b4f2f;
+    color:white;
+    padding: 8px 5px;
+    border-radius: 8px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+.boton:hover{
+    background-color: #5c3825;
+    color: #6da156;
+    
+}
+.boton2{
+    display: inline-block;
+    background-color: #8b4f2f;
+    color:white;
+    padding: 8px 5px;
+    border-radius: 8px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+.boton2:hover{
+    background-color: #5c3825;
+    color: #6da156;
+    
+}
+.boton3{
+    display: inline-block;
+    background-color: #8b4f2f;
+    color:white;
+    padding: 8px 5px;
+    border-radius: 8px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+.boton3:hover{
+    background-color: #5c3825;
+    color: #6da156;
+    
+}
+
