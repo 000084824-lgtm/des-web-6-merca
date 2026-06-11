@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+     font-family: Arial, Helvetica, sans-serif; /*si no esta disponible uno ocupa otro */
+     color:black;
+     background-color: #f4eee8;
+
+}
+header{
+    text-align: center;
+    color: white;
+    padding: 35px;
+    background-color: #5c3825;
+}
+main{
+    width: 90%;
+    background-color: #81582f;
+    max-width: 1000px;
+
+}
+.caja{
+    background-color: #ffff;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: #151414 5px solid;
+}
+.presentacion{
+  padding: 30px;
+
+}

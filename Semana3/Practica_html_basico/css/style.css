@@ -1,0 +1,16 @@
+p{color: blue; font-size: 25px; background-color: red; }
+
+.clase-eliel{
+    color: green;
+    background-color: yellow;
+}
+
+/* Estilos para aparentar un boton de la clase boton-personalizado */
+.boton-personalizado{
+    background: #3b42f6;
+    color: white;
+    padding: 15px 20px;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: bold;
+}
